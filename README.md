@@ -1,2 +1,1 @@
-# Sohila-Mohey
-First
+Snake Game
